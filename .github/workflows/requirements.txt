@@ -1,4 +1,0 @@
-requests
-pytz
-colorama
-fake-useragent
